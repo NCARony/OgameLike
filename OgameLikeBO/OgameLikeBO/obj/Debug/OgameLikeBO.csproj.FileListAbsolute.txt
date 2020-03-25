@@ -1,0 +1,5 @@
+C:\Users\LorDNynK\source\repos\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.csproj.CoreCompileInputs.cache
+C:\Users\LorDNynK\source\repos\OgameLikeBO\OgameLikeBO\bin\Debug\OgameLikeBO.dll
+C:\Users\LorDNynK\source\repos\OgameLikeBO\OgameLikeBO\bin\Debug\OgameLikeBO.pdb
+C:\Users\LorDNynK\source\repos\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.dll
+C:\Users\LorDNynK\source\repos\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.pdb
