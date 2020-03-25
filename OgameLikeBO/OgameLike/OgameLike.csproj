@@ -127,11 +127,18 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PlanetsController.cs" />
+    <Compile Include="Controllers\ResourcesController.cs" />
     <Compile Include="Controllers\SolarSystemsController.cs" />
     <Compile Include="Data\OgameLikeContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202003251554572_systemsolaire.cs" />
+    <Compile Include="Migrations\202003251554572_systemsolaire.Designer.cs">
+      <DependentUpon>202003251554572_systemsolaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -175,6 +182,16 @@
     <Content Include="Views\SolarSystems\Details.cshtml" />
     <Content Include="Views\SolarSystems\Edit.cshtml" />
     <Content Include="Views\SolarSystems\Index.cshtml" />
+    <Content Include="Views\Resources\Create.cshtml" />
+    <Content Include="Views\Resources\Delete.cshtml" />
+    <Content Include="Views\Resources\Details.cshtml" />
+    <Content Include="Views\Resources\Edit.cshtml" />
+    <Content Include="Views\Resources\Index.cshtml" />
+    <Content Include="Views\Planets\Create.cshtml" />
+    <Content Include="Views\Planets\Delete.cshtml" />
+    <Content Include="Views\Planets\Details.cshtml" />
+    <Content Include="Views\Planets\Edit.cshtml" />
+    <Content Include="Views\Planets\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -198,6 +215,11 @@
       <Project>{d49abe1d-08b7-4d57-a14c-885bb6699205}</Project>
       <Name>OgameLikeBO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202003251554572_systemsolaire.resx">
+      <DependentUpon>202003251554572_systemsolaire.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
