@@ -90,6 +90,7 @@ C:\Users\LorDNynK\source\repos\OgameLikeTP\bin\EntityFramework.dll
 C:\Users\LorDNynK\source\repos\OgameLikeTP\bin\EntityFramework.SqlServer.dll
 C:\Users\LorDNynK\source\repos\OgameLikeTP\bin\EntityFramework.xml
 C:\Users\LorDNynK\source\repos\OgameLikeTP\bin\EntityFramework.SqlServer.xml
+C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\roslyn\System.Text.Encoding.CodePages.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\OgameLikeTP.dll.config
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\OgameLikeTP.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\OgameLikeTP.pdb
@@ -130,7 +131,6 @@ C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\roslyn\System.Security.C
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\roslyn\System.Security.Cryptography.Encoding.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\roslyn\System.Security.Cryptography.Primitives.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\roslyn\System.Text.Encoding.CodePages.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\roslyn\System.Threading.Tasks.Extensions.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\roslyn\System.ValueTuple.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeTP\bin\roslyn\System.Xml.ReaderWriter.dll

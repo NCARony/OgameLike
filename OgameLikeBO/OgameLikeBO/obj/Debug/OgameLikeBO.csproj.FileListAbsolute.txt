@@ -5,7 +5,6 @@ C:\Users\LorDNynK\source\repos\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.dll
 C:\Users\LorDNynK\source\repos\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.pdb
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\bin\Debug\OgameLikeBO.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\bin\Debug\OgameLikeBO.pdb
-C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.csprojAssemblyReference.cache
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.csproj.CoreCompileInputs.cache
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.pdb
