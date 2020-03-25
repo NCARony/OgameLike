@@ -126,10 +126,6 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\PlanetsController.cs" />
-    <Compile Include="Controllers\ResourcesController.cs" />
-    <Compile Include="Controllers\SolarSystemsController.cs" />
     <Compile Include="Data\OgameLikeTPContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -172,24 +168,10 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\SolarSystems\Create.cshtml" />
-    <Content Include="Views\SolarSystems\Delete.cshtml" />
-    <Content Include="Views\SolarSystems\Details.cshtml" />
-    <Content Include="Views\SolarSystems\Edit.cshtml" />
-    <Content Include="Views\SolarSystems\Index.cshtml" />
-    <Content Include="Views\Planets\Create.cshtml" />
-    <Content Include="Views\Planets\Delete.cshtml" />
-    <Content Include="Views\Planets\Details.cshtml" />
-    <Content Include="Views\Planets\Edit.cshtml" />
-    <Content Include="Views\Planets\Index.cshtml" />
-    <Content Include="Views\Resources\Create.cshtml" />
-    <Content Include="Views\Resources\Delete.cshtml" />
-    <Content Include="Views\Resources\Details.cshtml" />
-    <Content Include="Views\Resources\Edit.cshtml" />
-    <Content Include="Views\Resources\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
