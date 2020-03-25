@@ -9,7 +9,7 @@ namespace OgameLikeBO
 {
     public class Resource :IdbEntity
     {
-        public long? Id { get; set; }
+        public long? Id { get => throw new NotImplementedException(); }
         private string name { get; set; }
         [Range(0, int.MaxValue)]
         private int? lastQuantity { get; set; }

@@ -10,7 +10,7 @@ namespace OgameLikeBO
 {
     public class Planet : IdbEntity
     {
-        public long? Id { get; set; }
+        public long? Id { get => throw new NotImplementedException(); }
         [StringLength(20, MinimumLength = 5)]
         private string name { get; set; }
         [Range(0, int.MaxValue)]

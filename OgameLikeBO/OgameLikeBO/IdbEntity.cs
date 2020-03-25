@@ -8,6 +8,6 @@ namespace OgameLikeBO
 {
     public interface IdbEntity
     {
-        long? Id { get; set; }
+        long? Id { get; }
     }
 }

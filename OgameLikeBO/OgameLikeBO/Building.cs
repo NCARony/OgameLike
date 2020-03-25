@@ -9,7 +9,7 @@ namespace OgameLikeBO
 {
     public abstract class Building : IdbEntity
     {
-        public long? Id { get; set; }
+        public long? Id { get => throw new NotImplementedException(); }
 
         [StringLength(20, MinimumLength = 5)]
         private string name { get; set; }
@@ -23,10 +23,7 @@ namespace OgameLikeBO
         }
         public List<Resource> NextCost()
         {
-            List<Resource> ListRessource = new List<Resource>();
-
-            return ListRessource;
-
+            return null;
         }
     }
 }

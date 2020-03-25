@@ -9,7 +9,7 @@ namespace OgameLikeBO
 {
     public class SolarSystem : IdbEntity
     {
-        public long? Id { get; set; }
+        public long? Id { get => throw new NotImplementedException(); }
         [StringLength(20, MinimumLength = 5)]
         private string name { get; set; }
         public List<Planet> planets { get; set; }
