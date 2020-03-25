@@ -17,13 +17,7 @@ namespace OgameLikeBO
         private int? level { get; set; }
 
         public abstract int? CellNb();
-        public List<Resource> TotalCost()
-        {
-            return null;
-        }
-        public List<Resource> NextCost()
-        {
-            return null;
-        }
+        public List<Resource> TotalCost { get => new List<Resource>(); }
+        public List<Resource> NextCost { get => new List<Resource>(); }
     }
 }

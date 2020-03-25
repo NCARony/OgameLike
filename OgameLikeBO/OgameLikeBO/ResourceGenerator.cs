@@ -10,7 +10,7 @@ namespace OgameLikeBO
     {
         public override int? CellNb()
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public List<Resource> ResourceBySecond()
