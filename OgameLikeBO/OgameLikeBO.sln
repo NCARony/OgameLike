@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgameLikeBO", "OgameLikeBO\OgameLikeBO.csproj", "{D49ABE1D-08B7-4D57-A14C-885BB6699205}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgameLikeTP", "..\OgameLikeTP\OgameLikeTP.csproj", "{421CBF62-7C52-4595-8AC6-8A9EFE9515E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgameLike", "OgameLike\OgameLike.csproj", "{04E3A61A-9EA3-403A-8132-06BE738E6F55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D49ABE1D-08B7-4D57-A14C-885BB6699205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D49ABE1D-08B7-4D57-A14C-885BB6699205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D49ABE1D-08B7-4D57-A14C-885BB6699205}.Release|Any CPU.Build.0 = Release|Any CPU
-		{421CBF62-7C52-4595-8AC6-8A9EFE9515E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{421CBF62-7C52-4595-8AC6-8A9EFE9515E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{421CBF62-7C52-4595-8AC6-8A9EFE9515E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{421CBF62-7C52-4595-8AC6-8A9EFE9515E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E3A61A-9EA3-403A-8132-06BE738E6F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E3A61A-9EA3-403A-8132-06BE738E6F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E3A61A-9EA3-403A-8132-06BE738E6F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E3A61A-9EA3-403A-8132-06BE738E6F55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
