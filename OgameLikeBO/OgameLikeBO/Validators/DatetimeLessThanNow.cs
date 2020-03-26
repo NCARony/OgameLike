@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ASPNetOgameLikeTPClassLibrary.Validators
+namespace OgameLikeBO.Validators
 {
     public class DatetimeLessThanNow : ValidationAttribute
     {

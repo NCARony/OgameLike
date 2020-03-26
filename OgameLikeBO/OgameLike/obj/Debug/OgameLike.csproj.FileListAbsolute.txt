@@ -89,3 +89,6 @@ C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLike\bin\EntityFramewor
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLike\bin\EntityFramework.SqlServer.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLike\bin\EntityFramework.xml
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLike\bin\EntityFramework.SqlServer.xml
+C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLike\obj\Debug\OgameLike.csprojAssemblyReference.cache
+C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLike\obj\Debug\OgameLike.Migrations.systemsolaire.resources
+C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLike\obj\Debug\OgameLike.csproj.GenerateResource.cache

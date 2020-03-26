@@ -1,4 +1,4 @@
-﻿using ASPNetOgameLikeTPClassLibrary.Validators;
+﻿using OgameLikeBO.Validators;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -38,9 +38,9 @@ namespace OgameLikeBO
             get { return level; }
         }
         [NotMapped]
-        public List<Resource> TotalCost { get => new List<Resource>(); }
+        public virtual List<Resource> TotalCost { get => new List<Resource>(); }
         [NotMapped]
-        public List<Resource> NextCost { get => new List<Resource>(); }
+        public virtual List<Resource> NextCost { get => new List<Resource>(); }
         #endregion
         #region Implemented properties
         public virtual long? Id { get => this.id; set => this.id = value; }

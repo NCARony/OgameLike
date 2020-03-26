@@ -8,3 +8,4 @@ C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\bin\Debug\OgameL
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.csproj.CoreCompileInputs.cache
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.dll
 C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.pdb
+C:\Users\LorDNynK\source\repos\OameLike\OgameLikeBO\OgameLikeBO\obj\Debug\OgameLikeBO.csprojAssemblyReference.cache
